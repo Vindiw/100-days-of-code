@@ -5,6 +5,3 @@
 **Today's Progress**: Started watching Harvard CS50's Web Programming YT Playlist.
 
 **Thoughts:** Have been able to brush up quite a bit on basic HTML & CSS I've forgotten over my semester break :)
-
-
-[//]: # **Link to work:** [Calculator App](http://www.example.com)
