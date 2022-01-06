@@ -24,3 +24,15 @@
 **Today's Progress**: Finished watching Harvard CS50's Web Programming - Lecture 2.
 
 **Thoughts:** Planned end day for Lecture 2 but couldn't, so going to finish it on 5th and also watch Lecture 3 - Django.
+
+### Day 5: 05 January, 2022 
+
+**Today's Progress**: Started watching Harvard CS50's Web Programming - Lecture 3.
+
+**Thoughts:** Started watching Lecture 3 - Django.
+
+### Day 6: 06 January, 2022 
+
+**Today's Progress**: Finished watching Harvard CS50's Web Programming - Lecture 3.
+
+**Thoughts:** Insightful lecture on Django which also helped me understand some concepts I did not understand while using React in Y2S2.
